@@ -1,2 +1,2 @@
 # Downalod-All-Repos
-Download all repos from github username
+ Clone all github.com repositories for a specified user.
